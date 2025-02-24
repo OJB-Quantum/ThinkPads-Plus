@@ -11,8 +11,3 @@ A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & T
 | Legion 7 / 9 | Legion 7i, Legion Pro 7 | CNC Machined Aluminum | Gamers, Performance Enthusiasts |
 | Yoga 9i / 7i | Yoga 9i, Yoga 7i | Aluminum Unibody | Premium 2-in-1 Users |
 | ThinkBook 16p | ThinkBook Plus | Magnesium-Aluminum Alloy | Professionals & Creators |
-
-| Title |
-|-|
-|Content|
-|Content|

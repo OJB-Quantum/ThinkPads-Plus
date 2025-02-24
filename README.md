@@ -1,5 +1,5 @@
 # ThinkPads
-A simple tabulated list of high build quality Lenovo ThinkPad laptops.
+A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & ThinkBook laptops.
 
 | Series | Best Models | Build Materials | Target Users |
 | :--- | :--- | :--- | :--- |

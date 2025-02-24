@@ -14,5 +14,5 @@ A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & T
 
 | Title |
 |-|
-|Content|
-|Content|
+|$E=mc^2$|
+|$E_{potential}$ = $Something_{else} + \frac{numerator}{denominator}$ |

@@ -13,4 +13,4 @@ A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & T
 | ThinkBook 16p | ThinkBook Plus | Magnesium-Aluminum Alloy | Professionals & Creators |
 
 ---
-If you are seeking a relatively low cost ThinkPad with a built-in Nvidia GTX 1650 GPU, check here: [](https://www.ebay.com/shop/x1-extreme-gen-4?_nkw=x1+extreme+gen+4)
+If you are seeking a relatively low cost ThinkPad with a built-in Nvidia GTX 1650 GPU, check here: https://www.ebay.com/shop/x1-extreme-gen-4?_nkw=x1+extreme+gen+4

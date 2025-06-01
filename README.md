@@ -11,3 +11,6 @@ A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & T
 | Legion 7 / 9 | Legion 7i, Legion Pro 7 | CNC Machined Aluminum | Gamers, Performance Enthusiasts |
 | Yoga 9i / 7i | Yoga 9i, Yoga 7i | Aluminum Unibody | Premium 2-in-1 Users |
 | ThinkBook 16p | ThinkBook Plus | Magnesium-Aluminum Alloy | Professionals & Creators |
+
+---
+If you are seeking a relatively low cost ThinkPad with a built-in Nvidia GTX 1650 GPU, check here: [](https://www.ebay.com/shop/x1-extreme-gen-4?_nkw=x1+extreme+gen+4)

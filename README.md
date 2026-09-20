@@ -3,7 +3,7 @@ A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & T
 
 | Series | Best Models | Build Materials | Target Users |
 | :--- | :--- | :--- | :--- |
-| ThinkPad P | P1, P16 | Magnesium-Aluminum, MIL-STD 810H | Engineers, Workstation Users |
+| ThinkPad P | P1, P16, P14s | Magnesium-Aluminum, MIL-STD 810H | Engineers, Workstation Users |
 | ThinkPad T | T14, T16 | Carbon Fiber & Magnesium Alloy | Business Professionals |
 | ThinkPad X | X13, X1 Nano | Carbon Fiber, Magnesium | Ultra-portable Business Users |
 | ThinkPad X1 | X1 Carbon, X1 Extreme | Carbon Fiber, CNC Aluminum | Premium Business/Power Users |

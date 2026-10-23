@@ -16,4 +16,4 @@ A simple tabulated list of high build quality Lenovo ThinkPad, Legion, Yoga, & T
 
 If you are seeking a relatively low cost ThinkPad with a built-in Nvidia GTX 1650 GPU from eBay, [check here](https://www.ebay.com/sch/i.html?_dcat=177&_fsrp=1&rt=nc&_from=R40&_nkw=x1+extreme&_sacat=0&_sop=15&GPU=NVIDIA%2520GeForce%2520GTX%25201650%2520Ti%2520Max%252DQ%7CNVIDIA%2520GeForce%2520RTX%25203050%7CNVIDIA%2520GeForce%2520RTX%25203050%2520Ti%7CNVIDIA%2520GeForce%2520RTX%25203080%2520Ti%7CNVIDIA%2520GeForce%2520GTX%25201650%2520Max%252DQ%7CNVIDIA%2520GeForce%2520GTX%25201650%2520Ti%7CNVIDIA%2520GeForce%2520GTX%25201650&LH_BIN=1&LH_ItemCondition=3000%7C2030%7C2020%7C2010%7C2000%7C1500%7C1000).
 
-Additionally, the [T14 Gen 2](https://www.ebay.com/sch/i.html?_nkw=T14+gen2&_sacat=0&_from=R40&_sop=15&rt=nc&LH_BIN=1) has been frequently recommended for university workloads and its cost effectiveness.
+Additionally, the [T14 Gen 2](https://www.ebay.com/sch/i.html?_nkw=T14+gen2&_sacat=0&_from=R40&_sop=15&LH_BIN=1&rt=nc&LH_ItemCondition=1500%7C1000%7C2000%7C2010%7C3000%7C2030%7C2020) has been frequently recommended for university workloads and its cost effectiveness.
